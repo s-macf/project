@@ -1,0 +1,67 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "jump-king-map.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "C:/Users/stewm/Desktop/pygame experiments/Jump King Testing - Copy/Jump-King-Tiled/jump-king-map.tmx": {
+            "scale": 64,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 600,
+                "y": 19350.0078125
+            }
+        },
+        "C:/Users/stewm/Desktop/pygame experiments/Jump King Testing/test tiled/test.tmx": {
+            "expandedObjectLayers": [
+                6
+            ],
+            "scale": 11,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 600,
+                "y": 450.04545454545456
+            }
+        },
+        "jump-king-map.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 0.33,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 478.7878787878785,
+                "y": 37427.27272727273
+            }
+        },
+        "map.tmx": {
+            "scale": 0.03125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 6816,
+                "y": 16128
+            }
+        }
+    },
+    "map.height": 38700,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 1,
+    "map.tileWidth": 1,
+    "map.width": 1200,
+    "openFiles": [
+        "jump-king-map.tmx",
+        "C:/Users/stewm/Desktop/pygame experiments/Jump King Testing/test tiled/test.tmx",
+        "C:/Users/stewm/Desktop/pygame experiments/Jump King Testing - Copy/Jump-King-Tiled/jump-king-map.tmx"
+    ],
+    "project": "jump-king-project.tiled-project",
+    "recentFiles": [
+        "C:/Users/stewm/Desktop/pygame experiments/Jump King Testing - Copy/Jump-King-Tiled/jump-king-map.tmx",
+        "C:/Users/stewm/Desktop/pygame experiments/Jump King Testing/test tiled/test.tmx",
+        "jump-king-map.tmx",
+        "map.tmx"
+    ]
+}
