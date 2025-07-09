@@ -24,6 +24,7 @@ def load_env(file_path):
                 rect = Rectangle(start, obj.width, obj.height, obj.type)
                 rects.append(rect)
 
+    print(len(rects))
     return image, rects
 
 
